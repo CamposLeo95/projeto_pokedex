@@ -8,8 +8,6 @@ I used the styled-components library to create the styles.
 
 Project link: https://projeto-pokedex-sand.vercel.app/
 
-https://github.com/CamposLeo95/projeto_pokedex/blob/main/LICENSE
-
 <div>
   
 ## Web <br />
@@ -73,4 +71,4 @@ Contributions are welcome!
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/CamposLeo95/projeto_pokedex/blob/main/LICENSE)
