@@ -14,8 +14,8 @@ https://github.com/CamposLeo95/projeto_pokedex/blob/main/LICENSE
   
 ## Web <br />
   
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/9719cf53-5518-4331-8949-b817e95e0188"  width="550px"/>
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/dd40e2ed-49e9-4770-ab0f-cf1699f5006a" width="407px"/>
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/9719cf53-5518-4331-8949-b817e95e0188"  width="350px"/>
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/dd40e2ed-49e9-4770-ab0f-cf1699f5006a" width="260px"/>
   
 ## Mobile
 <img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/326c4c0b-1d47-419c-932a-7c64a3581faa" />
