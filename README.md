@@ -8,12 +8,14 @@ I used the styled-components library to create the styles.
 
 Project link: https://projeto-pokedex-sand.vercel.app/
 
+https://github.com/CamposLeo95/projeto_pokedex/blob/main/LICENSE
+
 <div>
   
 ## Web <br />
   
 <img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/9719cf53-5518-4331-8949-b817e95e0188"  width="550px"/>
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/dd40e2ed-49e9-4770-ab0f-cf1699f5006a" width="350px"/>
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/dd40e2ed-49e9-4770-ab0f-cf1699f5006a" width="407px"/>
   
 ## Mobile
 <img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/326c4c0b-1d47-419c-932a-7c64a3581faa" />
@@ -68,3 +70,7 @@ This will launch the application in your default browser at `http://localhost:51
 ## Contributing
 
 Contributions are welcome! 
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
