@@ -11,14 +11,17 @@ Project link: https://projeto-pokedex-sand.vercel.app/
 <div>
   
 ## Web <br />
-  
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/9719cf53-5518-4331-8949-b817e95e0188"  width="350px"/>
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/dd40e2ed-49e9-4770-ab0f-cf1699f5006a" width="260px"/>
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/67136ad9-e0a0-4ce9-9018-b48034073a23"/>
+
+---
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/f5968e93-61a1-48b3-9d0b-e624032fe4c6"/>
   
 ## Mobile
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/326c4c0b-1d47-419c-932a-7c64a3581faa" />
-<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/1ff2d163-0e6f-4dd8-8d67-527c484241c4" />
- </div>
+
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/1b0e735b-31e1-42a8-a87b-8a5f4675c1a8" margin-right="50px" />
+
+<img src="https://github.com/CamposLeo95/projeto_pokedex/assets/98062615/39dafb03-bd77-46fb-a0b4-d22d75fdfebc" />
+</div>
 <br/>
 
 
